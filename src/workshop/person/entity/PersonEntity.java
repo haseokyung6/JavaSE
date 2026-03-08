@@ -48,9 +48,9 @@ public class PersonEntity {
 		char genderNum = ssn.charAt(6);
 		if(genderNum == '1' || genderNum == '3') {
 		
-			setGender('³²');
+			setGender('ë‚¨');
 		}else {
-			setGender('¿©');
+			setGender('ì—¬');
 		}
 	}
 
